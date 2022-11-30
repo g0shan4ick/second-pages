@@ -1,0 +1,103 @@
+h2 {
+    text-align: center;
+    margin: 36px 0;
+}
+
+
+header {
+    background-color: rgb(196, 196, 196);
+    padding: 30px 0;
+    position: relative;
+}
+
+.logo {
+    width: 100px;
+    position: absolute;
+    top: 10px;
+    left: 40px;
+    background-color: rgb(196, 196, 196);
+}
+
+.nav-link {
+    font-size: 24px;
+    color: #333;
+    margin: 1px;
+}
+footer {
+    background-color: #333;
+    padding: 30px 0;
+    position: relative;
+}
+
+h4 {
+    color: white;
+    text-align: center;
+}
+.container-fluid {
+    color: white;
+    margin: 1px;
+}
+
+body {
+    background-image:url(https://avatars.mds.yandex.net/get-vertis-journal/4465444/parking_Deptrans.jpg_1669617739673/orig);
+}
+h1 {
+    text-align: center;
+}
+h5 {
+    color: white;
+    text-align: center;
+}
+h3 {
+    color: white;
+    text-align: center;
+}
+h6 {
+    color: white;
+    text-align: center;
+}
+.socicon_vk{
+    margin:40px;
+    border-radius: 50%;
+    width: 100px;
+    height:100px;
+    background-color: #333;
+    opacity: 0.4;
+}
+.socicon_vk:hover{
+    background-color:#2b5297;
+    color:#2b5297 ;
+    opacity: 1;
+    transition:background-color 1s,
+    color 500ms;
+}
+.socicon_wh{
+    margin:40px;
+    border-radius: 50%;
+    width: 100px;
+    height:100px;
+    background-color: #333;
+    opacity: 0.4;
+}
+.socicon_wh:hover{
+    background-color:#43d854;
+    color:#43d854;
+    opacity: 1;
+    transition:background-color 1s,
+    color 500ms;
+}
+.socicon_tg:hover{
+    background-color:#0077ff;
+    color:#0077ff;
+    opacity: 1;
+    transition:background-color 1s,
+    color 500ms;
+}
+.socicon_tg{
+    margin:40px;
+    border-radius: 50%;
+    width: 100px;
+    height:100px;
+    background-color: #333;
+    opacity: 0.4;
+}
